@@ -50,3 +50,5 @@ Project manager 	Alana 	Finance manager 	Mike
 		Business Head manage 
 	Andy Bryson 
 Team member 	Senior manager and analyst 	Business division manager 	Jonathan 
+
+git init <directory>
