@@ -51,4 +51,4 @@ Project manager 	Alana 	Finance manager 	Mike
 	Andy Bryson 
 Team member 	Senior manager and analyst 	Business division manager 	Jonathan 
 
-git init <directory>
+
