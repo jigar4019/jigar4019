@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-jigar4019/jigar4019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jigar4019/alana  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 stakeholders list 
