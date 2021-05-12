@@ -50,6 +50,8 @@ Project manager 	Alana 	Finance manager 	Mike
 		Business Head manage 
 	Andy Bryson 
 Team member 	Senior manager and analyst 	Business division manager 	Jonathan 
+
+
 | Task        | Description |
 | Project title | An automated restaurant website |
 | Project manager  | Jigar patel |
