@@ -50,5 +50,8 @@ Project manager 	Alana 	Finance manager 	Mike
 		Business Head manage 
 	Andy Bryson 
 Team member 	Senior manager and analyst 	Business division manager 	Jonathan 
-
+| Task        | Description |
+| ----------- | ----------- |
+| 1.0         | Initiate    |
+| 2.0         | Plan        |
 
