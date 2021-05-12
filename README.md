@@ -26,12 +26,15 @@ Alana: From Hastings. 3-4 years work experience in Retail. Education: Level 4 ce
 | ----------- | ----------- |
 | 1.0         | Initiate    |
 | 2.0         | Plan        |   
+
  Project Charter 
-Project title | A automated restaurant website 	Project manager   |  	Jigar patel  
-Project start date | 5th May 2021 	Project End date|17th June 2021 	Project sponsor | NZ Pizza LTD..
-                                                                   Project description 
-To design a website for a restaurant which is to book and calculate the food required so it can be pre-ordered from the supplier or the supply chain.
-                                  Scope 		                                     Business case 
+Project title | A automated restaurant website 
+Project manager   |  	Jigar patel  
+Project start date | 5th May 2021 	
+Project End date|17th June 2021 	
+Project sponsor | NZ Pizza LTD..
+Project description | To design a website for a restaurant which is to book and calculate the food required so it can be pre-ordered from the supplier or the supply chain.
+ Scope 		    Business case 
 The system is to help the business and the staff to order the foods directly and automatically from the supplier. Save time to order and stocks calculating system. Reduce time. No mismanagement. 		To reduce the employment time to calculate the stocks and order to the suppliers. To reduce mismanagement so no extra orders and no food wastage.  
                           Risk and issues 		                                      Benefits 
 No team member has the previous experience with the setup of the automated website, so we have underestimated the work involved. 		1) customers can get everything when they need because it is in always pre stocks. So, the restaurant does not need to say do not have in stock. Customer satisfaction. 
