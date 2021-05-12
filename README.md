@@ -25,9 +25,8 @@ Alana: From Hastings. 3-4 years work experience in Retail. Education: Level 4 ce
 | Task        | Description |
 | ----------- | ----------- |
 | 1.0         | Initiate    |
-| 2.0         | Plan        |
-   
-                                                Project Charter 
+| 2.0         | Plan        |   
+ Project Charter 
 Project title 	A automated restaurant website 	Project manager 	Jigar patel  
 Project start date 	5th May 2021 	Project End date	17th June 2021 	Project sponsor 	NZ Pizza LTD..
                                                                    Project description 
