@@ -51,7 +51,7 @@ Project manager 	Alana 	Finance manager 	Mike
 	Andy Bryson 
 Team member 	Senior manager and analyst 	Business division manager 	Jonathan 
 | Task        | Description |
-| ----------- | ----------- |
-| 1.0         | Initiate    |
-| 2.0         | Plan        |
+| Project title | An automated restaurant website |
+| Project manager  | Jigar patel |
+| Project start date | 5th May 2021 |
 
