@@ -22,12 +22,13 @@ Charli - eEmployees
 jigar patel, i am from india. living in hasting. worked in dairy farms for 4 years. education: national diploma in business level 6. 
 Alana: From Hastings. 3-4 years work experience in Retail. Education: Level 4 certificate airline, hotel and travel operations, level 5 diploma travel and tourism management  
 
-# project charter 
+# Project Charter 
 
-| Task                   | Description                     | task             | description    |
+| Task                   | Description                     | Task             | Description    |
 | ---------------------- | ------------------------------  | ---------------  | -------------  | 
 | Project title          | An automated restaurant website | Project manager  |  Jigar patel   |
 | Project start date     | 5th May 2021                    | Project End date | 17th June 2021 |
+| Project Sponsor        | NZ Pizza Ltd.                   | Project Description | To design a website for a restaurant whcih is to book and calculate the food required so it can be pre-ordered from the supplier of the supply chain |
 
 
 
