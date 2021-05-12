@@ -1,26 +1,30 @@
-- 👋 Hi, I’m @jigar4019
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-jigar4019/alana  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Stakeholders 
-# John - Owner
-Victor - Manager
-Sally - employee
-Kim - employee
-Frank - employee 
-Charli - eEmployees
-  --     Suppliers
-  --     Customers
-  --     Government
-  
-jigar patel, i am from india. living in hasting. worked in dairy farms for 4 years. education: national diploma in business level 6. 
-Alana: From Hastings. 3-4 years work experience in Retail. Education: Level 4 certificate airline, hotel and travel operations, level 5 diploma travel and tourism management  
+# Stakeholders 
+
+| Name | Title | Category | Requirements |
+| --- | --- | --- | --- |
+| John | Owner | Internal | Maximise the profit made by the restaurant |
+| Victor | Manager | Internal | Ensure employees are working to a high standard and maintain the day-to-day running of the restaurant |
+| Sally, Kim, Frank, Charlie | Employees | Internal | Earn money and stay employed |
+| | Suppliers | External | Ensure the restaurant continues purchasing from them and regularly provides stock to the restaurant |
+| | Customers | External | Expects restaurant to provide them with high-quality food at affordable costs and efficient service provided by the employees |
+| | Government | External | Expects the restaurant to pay their taxes, to follow the laws, and to employ more staff members who have prior restaurant experience |
+
+# Company Profiles
+
+## Jigar Patel
+From: India, living in Hastings
+
+Work Experience: Worked on dairy farms for 4 years
+
+Education: National Diploma in Business Level 6
+
+## Alana Hughes
+From: Hastings
+
+Work Experience: 3-4 years of work experience in Retail
+
+Education: Level 4 Certificate in Airline, Hotel and Travel Operations, Level 5 Diploma in Travel and Tourism Management
 
 # Project Charter 
 
