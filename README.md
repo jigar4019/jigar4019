@@ -22,10 +22,12 @@ Charli - eEmployees
 jigar patel, i am from india. living in hasting. worked in dairy farms for 4 years. education: national diploma in business level 6. 
 Alana: From Hastings. 3-4 years work experience in Retail. Education: Level 4 certificate airline, hotel and travel operations, level 5 diploma travel and tourism management  
 
-| Task        | Description |
-| ----------- | ----------- |
+| Task        | Description | ghgh  |
+| ----------- | ----------- |-------
 | 1.0         | Initiate    |
-| 2.0         | Plan        |   
+| 2.0         | Plan        |  
+| 2.0         | Plan        |  
+| 2.0         | Plan        |  
 
  Project Charter 
 Project title | A automated restaurant website 
