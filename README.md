@@ -24,10 +24,10 @@ Alana: From Hastings. 3-4 years work experience in Retail. Education: Level 4 ce
 
 | Task        | Description | ghgh  |
 | ----------- | ----------- |-------
-| 1.0         | Initiate    |
-| 2.0         | Plan        |  
-| 2.0         | Plan        |  
-| 2.0         | Plan        |  
+|Project title   |  A automated restaurant website    |
+| Project manager     | Jigar patel      |  
+| Project start date |  5th May 2021    |  
+|Project End date     |17th June 2021    |  
 
  Project Charter 
 Project title | A automated restaurant website 
