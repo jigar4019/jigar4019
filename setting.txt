@@ -1,0 +1,10 @@
+Name	Title	Category	Requirements
+John	Owner	Internal	Maximize the profit made by the restaurant
+Victor	Manager	Internal	Ensure employees are working to high standard and maintain the day-to-day running of the restaurant
+Sally
+Kim
+Frank
+Charlie	Employees	Internal	Want to earn money and stay employed.
+-	Suppliers	External	Ensure the restaurant continues purchasing from them and regularly provides stock to the restaurant
+-	Customers	External	Want the restaurant to provide them with high-quality food at affordable costs and efficient service provided by the employees
+-	Government	External	Wants the restaurant to pay their taxes, to follow the laws, and to employ more staff members who have prior restaurant experience
