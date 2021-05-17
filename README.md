@@ -164,5 +164,6 @@ Testing documents - Alana
 | •	On our online orders from website sets earning points for the customers which can attract customers. That I have not seen on any other websites for example Zomato. | 
 
 
-
+| id || date rised || risk discription || likehood || impact || severety || owner |
+| --- || --- || --- || --- || --- || --- || --- |
 
