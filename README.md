@@ -102,8 +102,45 @@ Risk and Issues | No team member has the previous experience with the setup of t
 
 
 
+# TEAM MEETING
+| MEETING INFORMATION |
+| ----- |
+| Objective:	[ discussion and planning of task]
+| Date:	17/05/2021	    Location:	Block C (room: C214) |
+| Time:	10:30 AM |
+| Call-In Number:	2	|
+| Attendees:	Jigar, Alana | 
+
+| AGENDA ITEMS |
+| ---- |
+1 PRODUCT DESCRIPTION 
+2 RESOURCES NEEDS 
+3 GUI
+4 MAKE RISK RUGISTER 
 
 
+
+| Action | 
+| ------|
+1 finish the task before next meeting.
+2 add those in weekly docs. 
+3 share work with peers. 
+     | Task | 	| Performer | 
+     | -----|   | ----------|
+Description of product	jigar
+Resources needs 	Alana
+Risk register 	Jigar
+Testing documents	Alana 
+
+| Discussion | 
+| ----- |
+1 Topics to describe.
+2 what resources needs for the project. 
+3 what would be the risks.
+
+| Next meeting | 
+| ----- |
+31/05/2021
 
 
 # Description of product
