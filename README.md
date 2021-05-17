@@ -62,7 +62,13 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | 11 |  | Handover | May 2021 | May 2021 | |
 | 12 | 1-8 | Weekly Progress Updates | 3rd May 2021 | 27th June 2021 | Jigar/Alana |
 
-# Description of products
+
+
+
+
+
+
+# Description of product
 | Features |
 | ----- |
 | •	The website will order that food to suppliers directly. |
