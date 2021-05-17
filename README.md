@@ -19,12 +19,12 @@
 2 add those in weekly docs. 
 3 share work with peers. 
 
-| Task |
-| ---- |
-| Arrange team meeting - jigar |
-| Stake holders list   - Alana |
-| Make project charter - Jigar |
-| WBS - Alana |
+| Task | performers |
+| ---- | ----- |
+| Arrange team meeting | jigar |
+| Stake holders list   | Alana |
+| Make project charter | Jigar |
+| WBS | Alana |
 
 
 | Discussion |
@@ -126,12 +126,12 @@ Risk and Issues | No team member has the previous experience with the setup of t
 2 add those in weekly docs. 
 3 share work with peers. 
 
-| Task |
-| ---- |
-Description of product - jigar
-Resources needs - Alana
-Risk register - Jigar
-Testing documents - Alana 
+| Task | performers |
+| ---- | ---- |
+| Description of product | jigar |
+| Resources needs | Alana |
+| Risk register | Jigar |
+| Testing documents | Alana | 
 
 | Discussion | 
 | ----- |
@@ -164,6 +164,5 @@ Testing documents - Alana
 | •	On our online orders from website sets earning points for the customers which can attract customers. That I have not seen on any other websites for example Zomato. | 
 
 
-| id | date rised | risk discription | likehood | impact | severety | owner |
-| --- | --- | --- | --- | --- | --- | --- |
+
 
