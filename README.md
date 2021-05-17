@@ -1,3 +1,67 @@
+# TEAM MEETING
+
+MEETING INFORMATION
+Objective:	[ Project planning]
+Date:	06/05/2021	    Location:	Block C (room: C214)
+Time:	10:30 AM
+Call-In Number:	2	
+Attendees:	Jigar, Alana 
+
+AGENDA ITEMS
+
+1 PLANING TO BUSINESS DESCRIPTION 
+2 DISCUSSED ON TOPICS 
+3 TASKS DIVIDED 
+
+
+
+Action 
+
+1 finish the task before next meeting. 
+2 add those in weekly docs. 
+3 share work with peers. 
+                      Task 	Performer 
+Arrange team meeting	jigar
+Stake holders list 	Alana
+Make project charter 	Jigar
+WBS	Alana 
+
+
+
+Discussion 
+
+1 Topics to describe. 
+
+
+Next meeting 
+
+17/05/2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Stakeholders 
 
