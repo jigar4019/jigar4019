@@ -19,12 +19,12 @@
 2 add those in weekly docs. 
 3 share work with peers. 
 
-| Task || Performer |
-| ---- ||---- |
-| Arrange team meeting || jigar |
-| Stake holders list || Alana |
-| Make project charter || Jigar |
-| WBS || Alana |
+| Task |
+| ---- |
+| Arrange team meeting - jigar |
+| Stake holders list   - Alana |
+| Make project charter - Jigar |
+| WBS - Alana |
 
 
 | Discussion |
@@ -35,8 +35,6 @@
 | Next meeting |
 | -- |
 | 17/05/2021 |
-
-
 
 
 # Stakeholders 
