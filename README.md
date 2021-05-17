@@ -81,6 +81,12 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | •	Special services are visible on website like (wedding, parties etc...) |
 | •	Easy add delivery. |
 
+| An analysis of competing website |
+| ------- |
+| We have competed our website with some other providers/websites. We found that some of the ways are different in our website then others. For example: |
+| •	our website is ordering the food to suppliers directly and automatically count the stock in the restaurant which is new on the website of restaurants I have not seen on any other restaurant website. | 
+| •	On our online orders from website sets earning points for the customers which can attract customers. That I have not seen on any other websites for example Zomato. | 
+
 
 
 
