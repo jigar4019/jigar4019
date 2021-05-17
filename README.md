@@ -18,22 +18,23 @@
 1 finish the task before next meeting. 
 2 add those in weekly docs. 
 3 share work with peers. 
+
 | Task || Performer |
-| ---- || ---- |
+| ---- ||---- |
 | Arrange team meeting || jigar |
 | Stake holders list || Alana |
 | Make project charter || Jigar |
 | WBS || Alana |
 
 
-Discussion 
+| Discussion |
+| ------ |
+| 1 Topics to describe. | 
 
-1 Topics to describe. 
 
-
-Next meeting 
-
-17/05/2021
+| Next meeting |
+| -- |
+| 17/05/2021 |
 
 
 
