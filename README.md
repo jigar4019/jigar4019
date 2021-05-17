@@ -125,8 +125,9 @@ Risk and Issues | No team member has the previous experience with the setup of t
 1 finish the task before next meeting.
 2 add those in weekly docs. 
 3 share work with peers. 
-     | Task |
-     | ---- |
+
+| Task |
+| ---- |
 Description of product - jigar
 Resources needs - Alana
 Risk register - Jigar
