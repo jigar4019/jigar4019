@@ -20,7 +20,7 @@
 3 share work with peers. 
 
 | Task | | Performer  |
-| -----| | ---------- |
+| ----- | | ------- |
 | Arrange team meeting |	| jigar |
 | Stake holders list |	| Alana |
 | Make project charter | | Jigar |
