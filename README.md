@@ -18,7 +18,6 @@
 1 finish the task before next meeting. 
 2 add those in weekly docs. 
 3 share work with peers. 
-
 | Task || Performer |
 | ---- || ---- |
 | Arrange team meeting || jigar |
