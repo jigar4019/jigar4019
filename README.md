@@ -65,10 +65,16 @@ Risk and Issues | No team member has the previous experience with the setup of t
 # Description of products
 | Features |
 | ----- |
-| •	The website will order that food to suppliers directly.                                                                                                                     •	customers can choose their food from pics provided.                                                                                                                         •	easily accessible Menu.                                                                                                                                                     •	Earn points for every online orders.                                                                                                                                         •	Online table reservation.                                                                                                                                                   •	Email customers and restaurant to confirm that customers order this food. |
-•	Website can be used easily on mobile or another similar device.
-•	Special services are visible on website like (wedding, parties etc...)
-•	Easy add delivery.
+| •	The website will order that food to suppliers directly. |
+| •	customers can choose their food from pics provided. |
+| •	easily accessible Menu. |
+| •	Earn points for every online orders. |   
+| •	Online table reservation. |
+| •	Email customers and restaurant to confirm that customers order this food. | 
+| •	Website can be used easily on mobile or another similar device. |
+| •	Special services are visible on website like (wedding, parties etc...) |
+| •	Easy add delivery. |
 
 
-| 
+
+
