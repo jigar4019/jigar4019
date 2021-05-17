@@ -19,7 +19,7 @@
 2 add those in weekly docs. 
 3 share work with peers. 
 
-| Task | | Performer  |
+| Task | | Performer |
 | ---- | | ---- |
 | Arrange team meeting |	| jigar |
 | Stake holders list |	| Alana |
