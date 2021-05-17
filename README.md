@@ -8,24 +8,23 @@
 | Attendees:	Jigar, Alana |
 
 | AGENDA ITEMS |
-
+| -------|
 1 PLANING TO BUSINESS DESCRIPTION 
 2 DISCUSSED ON TOPICS 
 3 TASKS DIVIDED 
 
-
-
-Action 
-
+| Action |
+| ------ |
 1 finish the task before next meeting. 
 2 add those in weekly docs. 
 3 share work with peers. 
-                      Task 	Performer 
-Arrange team meeting	jigar
-Stake holders list 	Alana
-Make project charter 	Jigar
-WBS	Alana 
 
+| Task | | Performer  |
+| -----| | ---------- |
+| Arrange team meeting |	| jigar |
+| Stake holders list |	| Alana |
+| Make project charter | | Jigar |
+| WBS |	| Alana | 
 
 
 Discussion 
@@ -36,29 +35,6 @@ Discussion
 Next meeting 
 
 17/05/2021
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
