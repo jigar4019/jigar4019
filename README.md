@@ -53,11 +53,11 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | 2 | 1 | Stakeholders | 3rd May 2021 | 5th May 2021 | Alana |
 | 3 | 1 | Project Charter | 6th May 2021 | 9th May 2021 | Jigar |
 | 4 | 1 | Work Breakdown Structure | 6th May 2021 | 9th May 2021 | Alana |
-| 5 | 1 | Description of Products | 13th May 2021 | 16th May 2021 | |
-| 6 | 1 | Pseudo-Code | May 2021 | May 2021 | |
-| 7 | 1 | Resources Needs | 13th May 2021 | 16th May 2021 | |
-| 8 | 1 | Risk Register | May 2021 | May 2021 | |
-| 9 | 1 | GUI | May 2021 | May 2021 | |
-| 10 | 1 | Testing Document | May 2021 | May 2021 | |
-| 11 | 1 | Handover | May 2021 | May 2021 | |
-| 12 | 1 | Weekly Progress Updates | 3rd May 2021 | 27th June 2021 | Jigar/Alana |
+| 5 | 2 | Description of Products | 13th May 2021 | 16th May 2021 | |
+| 6 |  | Pseudo-Code | May 2021 | May 2021 | |
+| 7 | 2 | Resources Needs | 13th May 2021 | 16th May 2021 | |
+| 8 |  | Risk Register | May 2021 | May 2021 | |
+| 9 |  | GUI | May 2021 | May 2021 | |
+| 10 |  | Testing Document | May 2021 | May 2021 | |
+| 11 |  | Handover | May 2021 | May 2021 | |
+| 12 | 1-8 | Weekly Progress Updates | 3rd May 2021 | 27th June 2021 | Jigar/Alana |
