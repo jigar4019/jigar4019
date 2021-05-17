@@ -1,6 +1,6 @@
 # TEAM MEETING
-| MEETING INFORMATION |
-| ------------------- |
+| MEETING INFORMATION | | c |
+| ------------------- | | ---- |
 | Objective:	[ Project planning] |
 | Date:	06/05/2021           Location:	Block C (room: C214) |
 | Time:	10:30 AM |
