@@ -1,6 +1,6 @@
 # TEAM MEETING
-| MEETING INFORMATION | | c |
-| ------------------- | | ---- |
+| MEETING INFORMATION | 
+| ------------------- | 
 | Objective:	[ Project planning] |
 | Date:	06/05/2021           Location:	Block C (room: C214) |
 | Time:	10:30 AM |
@@ -19,12 +19,12 @@
 2 add those in weekly docs. 
 3 share work with peers. 
 
-| Task | | Performer |
-| ---- | | ---- |
-| Arrange team meeting |	| jigar |
-| Stake holders list |	| Alana |
-| Make project charter | | Jigar |
-| WBS |	| Alana | 
+| Task || Performer |
+| ---- || ---- |
+| Arrange team meeting || jigar |
+| Stake holders list || Alana |
+| Make project charter || Jigar |
+| WBS || Alana |
 
 
 Discussion 
