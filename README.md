@@ -1,13 +1,13 @@
 # TEAM MEETING
+| ---- || ---- |
+| MEETING INFORMATION |
+| Objective:	[ Project planning] |
+| Date:	06/05/2021 |	   | Location:	Block C (room: C214) |
+| Time:	10:30 AM |
+| Call-In Number:	2 |	
+| Attendees:	Jigar, Alana |
 
-MEETING INFORMATION
-Objective:	[ Project planning]
-Date:	06/05/2021	    Location:	Block C (room: C214)
-Time:	10:30 AM
-Call-In Number:	2	
-Attendees:	Jigar, Alana 
-
-AGENDA ITEMS
+| AGENDA ITEMS |
 
 1 PLANING TO BUSINESS DESCRIPTION 
 2 DISCUSSED ON TOPICS 
