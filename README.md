@@ -94,9 +94,9 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | 5 | 2 | Description of Products | 13th May 2021 | 16th May 2021 | Jigar|
 | 6 |  | Pseudo-Code | May 2021 | May 2021 | |
 | 7 | 2 | Resources Needs | 13th May 2021 | 16th May 2021 | Alana |
-| 8 |  | Risk Register | May 2021 | May 2021 | |
-| 9 |  | GUI | May 2021 | May 2021 | |
-| 10 |  | Testing Document | May 2021 | May 2021 | |
+| 8 |  | Risk Register | May 2021 | May 2021 | jigar |
+| 9 |  | GUI | May 2021 | May 2021 | jigar |
+| 10 |  | Testing Document | May 2021 | May 2021 | alana |
 | 11 |  | Handover | May 2021 | May 2021 | |
 | 12 | 1-8 | Weekly Progress Updates | 3rd May 2021 | 27th June 2021 | Jigar/Alana |
 
