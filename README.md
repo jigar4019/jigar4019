@@ -165,5 +165,4 @@ Risk and Issues | No team member has the previous experience with the setup of t
 
 
 
-| [image](https://user-images.githubusercontent.com/83620285/120049451-1ec38e00-c06e-11eb-9395-24489d445bd0.png) |
 
