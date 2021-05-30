@@ -92,12 +92,12 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | 3 | 1 | Project Charter | 6th May 2021 | 9th May 2021 | Jigar |
 | 4 | 1 | Work Breakdown Structure | 6th May 2021 | 9th May 2021 | Alana |
 | 5 | 2 | Description of Products | 13th May 2021 | 16th May 2021 | Jigar|
-| 6 |  | Pseudo-Code | May 2021 | May 2021 | |
+| 6 |  | Pseudo-Code | May 2021 | May 2021 | jigar/alana |
 | 7 | 2 | Resources Needs | 13th May 2021 | 16th May 2021 | Alana |
 | 8 |  | Risk Register | May 2021 | May 2021 | jigar |
 | 9 |  | GUI | May 2021 | May 2021 | jigar |
 | 10 |  | Testing Document | May 2021 | May 2021 | alana |
-| 11 |  | Handover | May 2021 | May 2021 | |
+| 11 |  | Handover | May 2021 | May 2021 | jigar/alana |
 | 12 | 1-8 | Weekly Progress Updates | 3rd May 2021 | 27th June 2021 | Jigar/Alana |
 
 
@@ -162,6 +162,16 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | We have competed our website with some other providers/websites. We found that some of the ways are different in our website then others. For example: |
 | •	our website is ordering the food to suppliers directly and automatically count the stock in the restaurant which is new on the website of restaurants I have not seen on any other restaurant website. | 
 | •	On our online orders from website sets earning points for the customers which can attract customers. That I have not seen on any other websites for example Zomato. | 
+
+
+# Resources Needs 
+|    |
+|----|
+•	The documentation we have completed for the website. This includes the team meeting, stakeholders, project charter, work breakdown structure, and description of products.
+•	Any prototypes/wireframes for the design of the website.
+•	GitHub for sharing the documentation and creating the website.
+•	Our budget for this project is initially $4500.00 however this can be increased to $6000.00 if necessary.
+•	Contact details and product information from suppliers.
 
 
 
