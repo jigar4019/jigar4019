@@ -208,7 +208,6 @@ Persona
 Website screenshot 
 
 | ![image](https://user-images.githubusercontent.com/83620285/120118483-db405f80-c1e6-11eb-8f08-1015bf3404ce.png) |
-
 | ![image](https://user-images.githubusercontent.com/83620285/120118489-e2676d80-c1e6-11eb-91ac-99710d2efbc9.png) |
 
 
