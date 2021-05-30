@@ -192,57 +192,28 @@ Risk and Issues | No team member has the previous experience with the setup of t
 
 Figure: 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| ![image](https://user-images.githubusercontent.com/83620285/120118423-91577980-c1e6-11eb-950a-0d1e6d04395d.png) |
 
 
 Figure: 2 
 
-
-
-
-
-
-
-
-
-
-
-
-
+| ![image](https://user-images.githubusercontent.com/83620285/120118439-a502e000-c1e6-11eb-823f-fee910a55cef.png) |
 
 
 Persona 
 
+| ![image](https://user-images.githubusercontent.com/83620285/120118455-b6e48300-c1e6-11eb-8355-ec2f32a8bb99.png) |
 
 
+Website screenshot 
 
+| ![image](https://user-images.githubusercontent.com/83620285/120118483-db405f80-c1e6-11eb-8f08-1015bf3404ce.png) |
+
+| ![image](https://user-images.githubusercontent.com/83620285/120118489-e2676d80-c1e6-11eb-91ac-99710d2efbc9.png) |
 
 
 
 	
-
-
-
-Website screenshot 
 
 
 
