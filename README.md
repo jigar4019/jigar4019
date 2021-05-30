@@ -186,3 +186,64 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | 2.2	| Create a website | Laptop	| 2 laptops |	
 | 3.1	| Test website using documentation |	Document and laptop |	Testing documentation and a laptop |	
 | Total |  |  |  | NZ$1340 |
+
+
+# GUI: wireframe, persona, and website screenshot
+
+Figure: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure: 2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Persona 
+
+
+
+
+
+
+
+	
+
+
+
+Website screenshot 
+
+
+
+	
