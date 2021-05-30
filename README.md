@@ -94,7 +94,7 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | 1.4 | 1 | Work Breakdown Structure | 6th May 2021 | 9th May 2021 | Alana |
 | 1.5 | 2 | Description of Products | 13th May 2021 | 16th May 2021 | Jigar|
 | 1.6 | 2-4 | Resources Needs | 13th May 2021 | 25th May 2021 | Alana |
-| 1.7 |  | Risk Register | May 2021 | May 2021 | Jigar |
+| 1.7 | 3 | Risk Register | 17th May 2021 | May 2021 | Jigar |
 | 1.8 | 1-8 | Weekly Progress Updates | 3rd May 2021 | 17th June 2021 | Jigar / Alana |
 | 2 | 5 | Design | 31st May 2021 | 6th June 2021 | Jigar / Alana |
 | 2.1 | 5 | GUI | 31st May 2021 | 6th June 2021 | Jigar / Alana |
