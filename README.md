@@ -87,18 +87,22 @@ Risk and Issues | No team member has the previous experience with the setup of t
 # Work Breakdown Structure (WBS)
 | WBS | Week | Task Requirements | Start Date | End Date | Completed By |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 1 | Team Meeting | 3rd May 2021 | 5th May 2021 | Jigar |
-| 2 | 1 | Stakeholders | 3rd May 2021 | 5th May 2021 | Alana |
-| 3 | 1 | Project Charter | 6th May 2021 | 9th May 2021 | Jigar |
-| 4 | 1 | Work Breakdown Structure | 6th May 2021 | 9th May 2021 | Alana |
-| 5 | 2 | Description of Products | 13th May 2021 | 16th May 2021 | Jigar|
-| 6 |  | Pseudo-Code | May 2021 | May 2021 | jigar/alana |
-| 7 | 2 | Resources Needs | 13th May 2021 | 16th May 2021 | Alana |
-| 8 |  | Risk Register | May 2021 | May 2021 | jigar |
-| 9 |  | GUI | May 2021 | May 2021 | jigar |
-| 10 |  | Testing Document | May 2021 | May 2021 | alana |
-| 11 |  | Handover | May 2021 | May 2021 | jigar/alana |
-| 12 | 1-8 | Weekly Progress Updates | 3rd May 2021 | 27th June 2021 | Jigar/Alana |
+| 1 | 1 | Documentation | 3rd May 2021 | 30th May 2021 | Jigar / Alana |
+| 1.1 | 1 | Team Meetings | 3rd May 2021 | 31st May 2021 | Jigar |
+| 1.2 | 1 | Stakeholders | 3rd May 2021 | 5th May 2021 | Alana |
+| 1.3 | 1 | Project Charter | 6th May 2021 | 9th May 2021 | Jigar |
+| 1.4 | 1 | Work Breakdown Structure | 6th May 2021 | 9th May 2021 | Alana |
+| 1.5 | 2 | Description of Products | 13th May 2021 | 16th May 2021 | Jigar|
+| 1.6 | 2-4 | Resources Needs | 13th May 2021 | 25th May 2021 | Alana |
+| 1.7 |  | Risk Register | May 2021 | May 2021 | Jigar |
+| 1.8 | 1-8 | Weekly Progress Updates | 3rd May 2021 | 17th June 2021 | Jigar / Alana |
+| 2 | 5 | Design | 31st May 2021 | 6th June 2021 | Jigar / Alana |
+| 2.1 | 5 | GUI | 31st May 2021 | 6th June 2021 | Jigar / Alana |
+| 2.2 | 5 | Pseudo-Code | 31st May 2021 | 6th June 2021 | Jigar / Alana |
+| 2.3 | 5 | Create Website | 2nd June 2021 | 6th June 2021 | Jigar / Alana |
+| 3 | 4 / 6 | Implementation | 27th May 2021 | 17th June 2021 | Jigar / Alana |
+| 3.1 | 4 | Testing Documentation | 27th June 2021 | 30th May 2021 | Alana |
+| 3.2 | 6 | Handover | 7th June 2021 | 17th June 2021 | Jigar / Alana |
 
 
 
