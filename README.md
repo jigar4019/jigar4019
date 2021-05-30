@@ -173,6 +173,12 @@ Risk and Issues | No team member has the previous experience with the setup of t
 •	Our budget for this project is initially $4500.00 however this can be increased to $6000.00 if necessary.
 •	Contact details and product information from suppliers.
 
-
-
-
+# Table 1: Resource needs for our project 
+| WBS code | discription | resource name | amount of resource requerd | cost |
+|----|-----|-----|-----|
+| 1.1 |	Planning – prepare team meetings | Team members meeting (workshop) |	3 hours |	3 x $30 = $90 |
+| 1.2	| Organise meeting with suppliers about product information |	Internal stakeholder’s meeting | 5 hours | 5 x $50 = $250 |
+| 1.5 |	Add features to website |	Laptop | 2 laptops | 2 x $500 = $1000 |
+| 2.2	| Create a website | Laptop	| 2 laptops |	
+| 3.1	| Test website using documentation |	Document and laptop |	Testing documentation and a laptop |	
+| Total |	NZ$1340 |
