@@ -181,4 +181,4 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | 1.5 |	Add features to website |	Laptop | 2 laptops | 2 x $500 = $1000 |
 | 2.2	| Create a website | Laptop	| 2 laptops |	
 | 3.1	| Test website using documentation |	Document and laptop |	Testing documentation and a laptop |	
-| Total |	NZ$1340 |
+| Total |  |  |  | NZ$1340 |
