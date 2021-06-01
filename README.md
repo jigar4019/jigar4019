@@ -208,12 +208,10 @@ Risk and Issues | No team member has the previous experience with the setup of t
 |------------|
 | Objective:	[ discussion and planning of task] |
 | Date:	31/05/2021 |
-    
 | Location: Block C (room: C214) |
 | Time:	10:30 AM |
 | Call-In Number:	2 |	
 | Attendees:	Jigar, Alana |
-
 
 | AGENDA ITEMS |
 | -------|
@@ -227,8 +225,9 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | 2 add those in weekly docs.  |
 | 3 share work with peers. |
 
-| Task | 	| Performer | 
-|------|	|--------|
+
+| Task | Performer | 
+|------|--------|
 | Prototypes for website/ GUI | Jigar |
 | Pseudo code |	Alana |
 | Risk register | Jigar |
