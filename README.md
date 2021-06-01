@@ -202,15 +202,50 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | Project took longer than the final date. | 2 | 4 | 6 | All Staff | Set up a documentation plan for broadening the task. And inform owner and sponsor. | 
 
 
+# TEAM MEETING
+
+| MEETING INFORMATION |
+|------------|
+| Objective:	[ discussion and planning of task] |
+| Date:	31/05/2021 |
+    
+| Location: Block C (room: C214) |
+| Time:	10:30 AM |
+| Call-In Number:	2 |	
+| Attendees:	Jigar, Alana |
 
 
+| AGENDA ITEMS |
+| -------|
+| 1 MAKE PROTOTYPES FOR GUI |
+| 2 CREATE WEBSITE FOR THE RESTAURANT |
+| 3 PESUDO CODE |
+ 
+| Action |
+|-------|
+| 1 finish the task before next meeting. |
+| 2 add those in weekly docs.  |
+| 3 share work with peers. |
+
+| Task | 	| Performer | 
+|------|	|--------|
+| Prototypes for website/ GUI | Jigar |
+| Pseudo code |	Alana |
+| Risk register | Jigar |
+| Handover | Alana/jigar |
+ 
 
 
+| Discussion |
+|----------|
+| 1 Topics to describe. |
+| 2 website design for prototype. |
+| 3 codes |
+| 4 edit websites as prototype | 
 
-
-
-
-
+| Next meeting | 
+|---------|
+| Project ends. |
 
 
 
