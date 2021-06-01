@@ -192,6 +192,7 @@ Risk and Issues | No team member has the previous experience with the setup of t
 |---|---|
 | Risk plan for the project: | Restaurant automated website | 
 | Assessment team member: | Alana, Jigar, Senior manager, analyst |
+
 | Risk description|  Prob. | Impact if the risk activates | Severity | Person who will manage the risk | Resolve plan |
 |-------|------|------|------|------|------|
 | Purpose and needs of the project are not clear.| 4 | 6 | 15 |	Nz Pizza | Needs to make sure the purpose on project charter is clear. |
