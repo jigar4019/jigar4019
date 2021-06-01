@@ -187,6 +187,31 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | 3.1	| Test website using documentation |	Document and laptop |	Testing documentation and a laptop |	
 | Total |  |  |  | NZ$1340 |
 
+# risk register 
+|   |   |
+|---|---|
+| Risk plan for the project: | Restaurant automated website | 
+| Assessment team member: | Alana, Jigar, Senior manager, analyst |
+| Risk description|  Prob. | Impact if the risk activates | Severity | Person who will manage the risk | Resolve plan |
+|-------|------|------|------|------|------|
+| Purpose and needs of the project are not clear.| 4 | 6 | 15 |	Nz Pizza | Needs to make sure the purpose on project charter is clear. |
+| Deliverables and design of the project is not complete. | 6 |	8 | 15 | NZ Pizza | Design workshop to clear the scope of the project in detail. | 
+| End date of the construction was not given | 3 | 5 | 12 | Manager | Adopt an alternate strategy to think. Opposite reasoning. Start from the end date and figure the right arrangement of days backways.|
+| issue of PCs and hardware getting stolen.| 5 | 8 | 14 | Everyone working on the project. | Secure PCs and hardware in a locker room limited uniquely to those working at them. |
+| Project took longer than the final date. | 2 | 4 | 6 | All Staff | Set up a documentation plan for broadening the task. And inform owner and sponsor. | 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # GUI: wireframe, persona, and website screenshot
 
@@ -211,8 +236,13 @@ Website screenshot
 | ![image](https://user-images.githubusercontent.com/83620285/120118489-e2676d80-c1e6-11eb-91ac-99710d2efbc9.png) |
 
 
+implimentation 
 
-	
+
+| ![image](https://user-images.githubusercontent.com/83620285/120270527-e4702000-c2fd-11eb-956f-d0d5307b896d.png) |
+| ![image](https://user-images.githubusercontent.com/83620285/120270558-f05be200-c2fd-11eb-9466-acadf7f60704.png) |
+
+
 
 
 
