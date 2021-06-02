@@ -104,6 +104,11 @@ Risk and Issues | No team member has the previous experience with the setup of t
 | 3.1 | 4 | Testing Documentation | 27th June 2021 | 30th May 2021 | Alana |
 | 3.2 | 6 | Handover | 7th June 2021 | 17th June 2021 | Jigar / Alana |
 
+# Gantt chart 
+| ![image](https://user-images.githubusercontent.com/83620285/120556574-c9fa8b80-c450-11eb-8ae6-4ae2f485d5f8.png) |
+
+# Network diagram 
+| ![image](https://user-images.githubusercontent.com/83620285/120556684-f2828580-c450-11eb-8393-c2686c2a6a71.png) | 
 
 
 # TEAM MEETING
