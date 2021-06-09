@@ -283,6 +283,27 @@ implimentation
 | ![image](https://user-images.githubusercontent.com/83620285/120270558-f05be200-c2fd-11eb-9466-acadf7f60704.png) |
 
 
+# Pseudo-Code
+1.	IF logging in to website THEN
+		show username box
+		show password box
+END IF
+IF username and password are correct
+		show enter button
+ELSE 
+		Show wrong username or password prompt
+
+2.	IF completed adding items to the cart THEN
+		show checkout option
+	ELSE
+		show continue shopping option
+
+3.	ON delivery form submit
+validate
+IF errors
+show errors
+ELSE 
+submit form
 
 
 
