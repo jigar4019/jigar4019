@@ -323,5 +323,24 @@ ELSE
              submit form
 
 
+# Testing Documentation
+
+| ID | Scenario Title | Status | Remarks |     |
+|----|-----|-----|----|-----|
+| 1 | Home Page | Pass | The home page does appear when the website starts up |	When the website starts up the home page should appear |
+| 2 | Tabs | Pass | The tabs were clearly at the top of the page on the website | The tabs should appear at the top of each page of the website |
+| 3 | Menu Tab | Fail | Menu tab isn’t linked to the menu page	| The menu tab should be linked to the menu page of the website |
+| Added | Pass | A link between the tab and the menu page has been added |
+| 4 | Contact Us Tab | Fail | Contact us tab isn’t linked to the contact us page | The contact us tab should be linked to the contact us page of the website |
+| Added | Pass | A link between the tab and the contact us page has been added |	
+| 5 | About Us Tab | Fail | About us tab isn’t linked to the about us page | The about us tab should be linked to the about us page of the website |
+| Added | Pass | A link between the tab and the about us page has been added |	
+| 6 | Specials | Fail | Specials on the home page aren’t linked to the menu tab | The specials for the week on the home page should be linked to the menu page and to the specific pizza mentioned |
+| Added | Pass | A link between the specials on the home page and the menu tab has been added |	
+| 7 | Search Engine | Pass | The search engine was clearly visible in the top right hand corner of the page on the website | Search engine should be accessible and visible on the top right hand of the page |
+| 8 | Images | Pass | The images are relevant to each item specified on the menu | The images of the food available should be clear and relevant to the specific item |
+| 9 | Online Orders on Home Pages | Pass | The online orders were visible on the home page of the website | The online orders should be visible on the home page |
+
+
 
 	
