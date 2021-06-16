@@ -349,3 +349,89 @@ ELSE
 
 
 	
+# Hand over
+
+(link of the project website is provided)
+
+This the is the document of the project hand over. So basically, in this document we include what we try to achieve according to our cline’s requirements. And what we include in the product like documents, planning, methodology, team work etc.…
+
+To continue the introduction, I would like to introduce the project which is we design an automatic restaurant website for NZ pizza. To create the website, we have applied the agile methodology (you will find the description of the methodology below). Our cline wants a website which can operate automatically so basically, they want to cut down a workforce and take advantage of the technology. 
+
+List of what we go through to achieve the project:
+•	Team meeting. 
+•	Stake holders list.
+•	Project charter.
+•	Work breaks down structure.
+•	Team meeting again. 
+•	Description of product.
+•	Resources needs.
+•	GUI (prototype, persona, screenshot) 
+•	Testing documents.
+•	Last team meeting.
+•	Risk register. 
+•	Pseudo code. 
+•	Every weekly progress discussion.
+
+We have designed the project as per the client requirements. We try to achieve the project with the website which works automatic for example: when customer order food the website gives that order to the nearest restaurant and the website automatically order the stock to the suppliers (i.e., material that makes the food) so it will be beneficial for the owner and the staff as well. To Attract more and more customers, we created a slideshow on the website with the restaurant specials to make restaurant owner happy. We have also created a wireframe for the project which is attached in the documents above.
+
+Agile methodology 
+As discuss above we have used agile methodology to plan and implement the project. Because its I think easier to work on any project. So, we call a team meeting and plan the task’s, to do list, next team meeting and who’s task it is. So agile methodology gives indication after one task that what is the next task for the person to do. And how to implement the task. So, our team found very easy to work according to agile methodology. 
+
+At last, we went through the checklist of the project by doing that we made sure that we done all the parts of the project we are not missing any of them. 
+
+
+
+Below is the link for our git hub documentation and the index file we created me and Alana both worked on the parts for documentation and the index file we both contribute our work. every week we meet and discuss each other about doubts and queries also we worked tighter sometime in class on the index file. Because it was on my account and laptop, so we try to contribute both on the index (website). 
+
+
+
+
+Link of the GitHub is: -
+
+
+https://github.com/jigar4019/jigar4019
+
+
+if the link does not work our git hub account is 
+ 
+jigar4019@gmail.com
+pass: -    Eitgroup214 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  References 
+
+
+
+
+BIBLIOGRAPHY
+lumencandela. (n/d). Overview of Key Elements of the Business. Retrieved from lumen: https://courses.lumenlearning.com/boundless-accounting/chapter/overview-of-key-elements-of-the-business/#:~:text=Internal%20stakeholders%20are%20entities%20within,regulators%2C%20investors%2C%20suppliers).
+
+Jon Wittwer, B. W. (2019, 03 06). Meeting Agenda Templates. Retrieved from vertex42: https://www.vertex42.com/WordTemplates/meeting-agenda.html
+
+project life cycle . (n.d.). Retrieved from Eitonline : https://eitonline.eit.ac.nz/pluginfile.php/2960614/mod_resource/content/2/synopsis_w1_s2.pdf
+
